@@ -1,0 +1,78 @@
+/*CSS INDEX*/
+/*.c-v {
+  cursor: pointer;
+  position: relative;
+  left: 90%
+ }
+ .esp{
+   display: flex;
+ }
+
+.div-caja-herramientas {
+    top: 100px;
+    position: absolute;
+	width: 100%;
+}*/
+.tamlet{
+     font-size:100% !important; 	
+}
+
+td, th{
+    padding: 2px 4px;
+
+}
+.caja {
+    position: absolute;
+    top: 15%;
+    z-index: 99;
+
+}  
+
+.cd-header{
+	margin: 0 !important;
+	padding: 15px !important;
+}
+.asd{
+ overflow-y: auto;
+  
+}
+body{
+  overflow-y: hidden;
+}
+
+      #gs-map {     
+        z-index: 3;
+
+      }
+
+.labels {
+    
+    text-align: center;
+    position: center;
+         width: 20px;       
+   }
+
+.ajax-upload-dragdrop {
+    position: fixed;
+    padding: 6px 7px;
+}
+
+
+.gs-content-upload {
+    min-width: 80px;
+}
+   
+
+/*   .picker__box{
+    position:absolute !important;
+    z-index:99;
+   }*/
+
+
+/*
+.fa-fw{padding-right:10px}
+.gs-level{padding-left:5px;}
+
+.showlayer a {color: #D80A0A;}*/
+
+
